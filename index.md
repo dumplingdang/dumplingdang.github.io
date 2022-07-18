@@ -15,6 +15,7 @@ Current student in near completion of associate certicate programs in software d
   - Business Analysis & System Design
   - Agile Methods and Scrum Framework
 ### `2012-2015`   Bachelor of Commerce, Accounting
+
 **Sauder School of Business, University of British Columbia, Vancouver, B.C., Canada**
 
 ## Work Experience
