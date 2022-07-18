@@ -27,12 +27,16 @@ Current student in near completion of associate certicate programs in software d
 
 ### Part-time Conveyancer `2016-2018`
 **Adrian Wong Notary Public, Vancouver, B.C., Canada**
+- Complete average 10 real estate transactions and refinances per month by using Word and Excel.
+- Draft legal documents for clients to be authenticated by B.C. Government and Consulate of General of China.
+- Meet with clients and explain details of legal documents with respect to real estate transactions.
+
+### Full-time Accounting Clerk `2015-2018`
+**Brownsville Pub & RV Park, Surrey, B.C. Canada**
 - Prepare financial statements by recording revenues and expenses with Excel and Quickbooks.
 - Issue paycheques monthly to the pub staffs.
 - Remit payroll and GST to Receiver General quarterly.
 
-### Full-time Accounting Clerk `2015-2018`
-**Brownsville Pub & RV Park, Surrey, B.C. Canada**
 ## Portfolio
 - [Web Development 1](https://dumplingdang.github.io/cafegloucester/)
 - [Web Development 2](https://dumplingdang.github.io/instahgram/)
