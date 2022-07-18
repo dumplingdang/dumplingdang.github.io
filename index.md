@@ -21,8 +21,16 @@ Current student in near completion of associate certicate programs in software d
 ## Work Experience
 ### Conveyancer `2018-Present`
 **Timothy Ko Notary Public, Vancouver, B.C., Canada**
+- Complete average 30 to 40 real estate transactions and refinances per month by using professional software ProSuite.
+- Efficiently handle 40-50 services inquiries from clients, bankers and realtors daily through written and oral communication.
+- Reconcile trust accounts by using ProSuite and complete annual self-audit reports in timely basis.
+
 ### Part-time Conveyancer `2016-2018`
 **Adrian Wong Notary Public, Vancouver, B.C., Canada**
+- Prepare financial statements by recording revenues and expenses with Excel and Quickbooks.
+- Issue paycheques monthly to the pub staffs.
+- Remit payroll and GST to Receiver General quarterly.
+
 ### Full-time Accounting Clerk `2015-2018`
 **Brownsville Pub & RV Park, Surrey, B.C. Canada**
 ## Portfolio
