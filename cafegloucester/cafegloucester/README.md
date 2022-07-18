@@ -1,1 +1,0 @@
-# cafegloucester.ca
