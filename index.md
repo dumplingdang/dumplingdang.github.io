@@ -26,5 +26,5 @@ Current student in near completion of associate certicate programs in software d
 ### Full-time Accounting Clerk `2015-2018`
 **Brownsville Pub & RV Park, Surrey, B.C. Canada**
 ## Portfolio
-- School project: [Website 1](https://dumplingdang.github.io/cafegloucester/)
-- School project: [Website 2](https://dumplingdang.github.io/instahgram/)
+- [Web Development 1](https://dumplingdang.github.io/cafegloucester/)
+- [Web Development 2](https://dumplingdang.github.io/instahgram/)
