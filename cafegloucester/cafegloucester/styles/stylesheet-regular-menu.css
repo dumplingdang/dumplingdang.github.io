@@ -1,0 +1,307 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&family=Zilla+Slab&display=swap');
+
+/* general setting */
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    width: 100%;
+    background-color: wheat;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.wrapper {
+    box-shadow: 2px 0 20px 2.5px grey;
+    margin: auto;
+    min-width: 320px;
+    max-width: 1024px;
+    background-color: lightgoldenrodyellow;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+h2 {
+    font-size: 1.15em;
+}
+
+h3 {
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
+.fa-pepper-hot {
+    color: rgb(199, 5, 5);
+}
+
+main {
+    padding-top: 41px;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.main-banner {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-weight: bold;
+    padding: 0 0 0;
+    background-image: url(../images/vegi-fried-rice.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.main-banner .banner-note {
+    padding-top: 3%;
+    padding-right: 3%;
+    text-align: end;
+    font-size: smaller;
+}
+.main-banner h1 {
+    text-transform: uppercase;
+    margin: auto;
+    padding: 10% 30% 30%;
+    top: 30px;
+    left: 10%;
+}
+
+.menu1,
+.menu2 {
+    margin-top: 10%;
+}
+
+.menu2 {
+    margin-bottom: 10%;
+}
+
+button {
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    cursor: pointer;
+    border: none;
+    margin: auto;
+    background-color: black;
+}
+
+button h2 {
+    margin-top: 5px;
+}
+
+button:hover,
+button:active {
+    outline: none;
+}
+
+.menu-description1,
+.menu-description2 {
+    display: none;
+}
+
+.collapse1 .menu-description1,
+.collapse2 .menu-description2 {
+    display: block;
+}
+
+.menu-description1,
+.menu-description2 {
+    margin: 30px 6% auto;
+    padding-bottom: 15px;
+    border-left: dotted brown;
+    border-right: dotted brown;
+}
+
+.menu1 p,
+.menu2 p {
+    margin: 0;
+    padding: 0 10px 0;
+}
+
+.foodmenu-btn1,
+.foodmenu-btn2 {
+    z-index: 1;
+    position: sticky;
+    top: 25px;
+    background-color: brown;
+    color: lightgoldenrodyellow;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.foodmenu-btn1 h2,
+.foodmenu-btn2 h2 {
+    color: lightgoldenrodyellow;
+}
+
+h2 {
+    margin: 0 auto 5px;
+}
+
+.item-img-group img {
+    display: none;
+}
+
+.menu1-details,
+.menu2-details {
+    margin-top: 45px;
+}
+
+.menu1-details .note,
+.menu2-details .note {
+    padding-top: 15px;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+.menu1-details ul,
+.menu2-details ul {
+    margin: 0;
+    padding: 8px 30px 0;
+}
+
+.sizzling-note,
+.grill-entree-seafood-note,
+.asian-noodle-note {
+    font-size: 1em;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+.other-drinks {
+    font-size: 0.9em;
+    margin: 5% 1% 2%;
+    padding-bottom: 5%;
+    border-radius: 15px;
+    border-top: brown solid;
+    border-bottom: brown solid;
+}
+
+.other-drinks .menu-line {
+    flex-wrap: wrap;
+}
+
+.menu-line {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 10px 0;
+}
+
+.menu-line p {
+    padding: 0;
+}
+
+.menu-line .item {
+    width: 70%;
+}
+
+
+/* tablet and pc setting */
+
+@media (min-width: 568px) {
+    /* header setting */
+    h1 {
+        font-size: 1.8em;
+    }
+    h2 {
+        font-size: 1.5em;
+    }
+    h3 {
+        font-size: 1.3em;
+    }
+    button {
+        border-radius: 10px;
+        width: 70%;
+        display: block;
+        cursor: pointer;
+        outline: none;
+        margin: auto;
+        background-color: black;
+    }
+    /* main setting */
+    .main-banner {
+        font-family: 'Sawarabi Mincho', sans-serif;
+        font-weight: bold;
+        background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(250, 250, 210, 0.664)), url(../images/curry-rice.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    .main-banner .banner-note{
+        display: none;
+    }
+    .main-banner h1 {
+        padding: 10%;
+        padding-left: 56%;
+    }
+    /* menu setting */
+    .foodmenu-group {
+        margin: auto;
+    }
+    .foodmenu-btn1,
+    .foodmenu-btn2 {
+        z-index: 1;
+        position: sticky;
+        top: 30px;
+        background-color: linear-gradient(to top, rgb(204, 61, 61), rgb(94, 50, 50));
+        color: lightgoldenrodyellow;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .menu-description1,
+    .menu-description2 {
+        margin: 30px 16% auto;
+        padding-bottom: 15px;
+        border-left: dotted brown;
+        border-right: dotted brown;
+    }
+    .menu1-details .note,
+    .menu2-details .note {
+        font-size: 1em;
+    }
+    .menu1,
+    .menu2 {
+        margin-top: 5%;
+    }
+    .menu1 h2,
+    .menu2 h2 {
+        margin-bottom: 10px;
+    }
+    .menu1 p,
+    .menu2 p {
+        text-align: center;
+        font-size: 1.2em;
+    }
+    .menu1 .item,
+    .menu2 .item {
+        text-align: start;
+    }
+    .other-drinks .menu-line {
+        font-size: 1em;
+    }
+}
