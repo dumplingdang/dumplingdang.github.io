@@ -1,7 +1,7 @@
 # Fannie Deng's Resume
 
 ## Profile
-Current student in near completion of associate certicate programs in software development and computer information system at the British Columbia Institute of Technology persuing to further complete a Computer Systems Diploma and seeking opportunities to change career path to the information technology industry. BCom graduate in Accounting at the University of British Columbia. Attention to details and goal-oriented written and verbal communical skills. Self-starter and quick learner in new working environment.
+Current student in near completion of associate certicate programs in computing studies at the British Columbia Institute of Technology persuing to further complete a Computer Systems Diploma and seeking opportunities to change career path to the information technology industry. BCom graduate in Accounting at the University of British Columbia. Attention to details and goal-oriented written and verbal communical skills. Self-starter and quick learner in new working environment.
 
 ## Education
 ### Associate Certificate, Applied Software Development/Applied Computer Information System `2019-2022`
