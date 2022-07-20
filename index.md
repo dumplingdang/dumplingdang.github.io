@@ -24,11 +24,12 @@ Current student in near completion of associate certicate programs in software d
 - Complete average 30 to 40 real estate transactions and refinances per month by using professional software ProSuite.
 - Efficiently handle 40-50 services inquiries from clients, bankers and realtors daily through written and oral communication.
 - Reconcile trust accounts by using ProSuite and complete annual self-audit reports in timely basis.
+- File payrolls, GST and PST.
 
 ### Part-time Conveyancer `2016-2018`
 **Adrian Wong Notary Public, Vancouver, B.C., Canada**
 - Complete average 10 real estate transactions and refinances per month by using Word and Excel.
-- Draft legal documents for clients to be authenticated by B.C. Government and Consulate of General of China.
+- Prepare legal documents to be authenticated by B.C. Government and consulates.
 - Meet with clients and explain details of legal documents with respect to real estate transactions.
 
 ### Full-time Accounting Clerk `2015-2018`
