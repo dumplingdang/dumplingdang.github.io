@@ -3,6 +3,11 @@
 ## Profile
 Current student in near completion of associate certicate programs in computing studies at the British Columbia Institute of Technology persuing to further complete a Computer Systems Diploma and seeking opportunities to change career path to the information technology industry. BCom graduate in Accounting at the University of British Columbia. Attention to details and goal-oriented written and verbal communical skills. Self-starter and quick learner in new working environment.
 
+## Portfolio
+- [Web Development 1](https://dumplingdang.github.io/cafegloucester/)
+- [Web Development 2](https://dumplingdang.github.io/instahgram/)
+- [C# - to be updated](https://github.com/dumplingdang)
+
 ## Education
 ### Associate Certificate, Applied Software Development/Applied Computer Information System `2019-2022`
 **School of Computing & Academic Studies, British Columbia Institute of Technology, Vancouver, B.C. Canada**
@@ -37,8 +42,3 @@ Current student in near completion of associate certicate programs in computing 
 - Prepare financial statements by recording revenues and expenses with Excel and Quickbooks.
 - Issue paycheques monthly to the pub staffs.
 - File and remit payrolls and GST to Receiver General quarterly.
-
-## Portfolio
-- [Web Development 1](https://dumplingdang.github.io/cafegloucester/)
-- [Web Development 2](https://dumplingdang.github.io/instahgram/)
-- [C# - to be updated](https://github.com/dumplingdang)
