@@ -3,18 +3,6 @@ const postsContainer = document.querySelector('.posts')
 const currentHashtag = document.querySelector('.current-hashtag')
 const currentHashtagCount = document.querySelector('.current-hashtag-count')
 
-fetch('https://comp2132.herokuapp.com/posts')
-    .then(response => response.json())
-    .then(data => {
-        if (localStorage.getItem('posts') === null) {
-            localStorage.setItem('posts', JSON.stringify(data))
-        } else {
-            posts = Array.from(JSON.parse(localStorage.getItem('posts')))
-            console.log(posts);
-            displayPost(posts)
-        }
-    })
-
 const displayHashtag = hashtagArray => {
     let collection = new Array()
     for (let hashtag of hashtagArray) {
@@ -109,6 +97,17 @@ searchBox.addEventListener('keyup', event => {
     }
     displayPost(filteredPosts);
 })
+
+if (localStorage.getItem('posts') === null) {
+    fetch('https://comp2132.herokuapp.com/posts')
+        .then(res => res.json())
+        .then(data => {
+            localStorage.setItem('posts', JSON.stringify(data))
+        })
+} else {
+    posts = Array.from(JSON.parse(localStorage.getItem('posts')))
+    displayPost(posts)
+}
 
 document.addEventListener('click', event => {
     if (event.target.classList.contains('hashtag')) {
