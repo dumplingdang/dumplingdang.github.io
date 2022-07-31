@@ -6,7 +6,7 @@ Current student in near completion of associate certificate programs in computin
 ## Portfolio
 - [Web Development 1](https://dumplingdang.github.io/cafegloucester/)
 - [Web Development 2](https://dumplingdang.github.io/instahgram/)
-- [C# - to be updated](https://github.com/dumplingdang)
+- [C# / Java - to be updated](https://github.com/dumplingdang)
 
 ## Education
 ### Associate Certificate, Applied Software Development/Applied Computer Information System `2019-2022`
